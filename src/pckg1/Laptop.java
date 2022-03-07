@@ -10,7 +10,7 @@ class  Test{
 class TestBase extends Test {
 	public int t;
 	public TestBase() {
-		t = 2;
+		t = 4;
 	}
 }
 
